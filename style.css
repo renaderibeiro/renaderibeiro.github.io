@@ -1,0 +1,10 @@
+p {
+    color: red;
+    font-size: 1em;
+}
+p.endereco {
+    font-family: cursive;
+}
+.endereco {
+    color: aqua;
+}
